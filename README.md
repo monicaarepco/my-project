@@ -1,3 +1,3 @@
 # Hello World
-This is my New Project
+This is my Project
 
